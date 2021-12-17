@@ -1,0 +1,17 @@
+Package: StatComp21015
+Type: Package
+Title: establish my packages for 'Statistical Computing' course
+Version: 1.0
+Date: 2021-12-12
+Author: Xiyue Zhu
+Maintainer: Xiyue Zhu <zhuxiyue@mail.ustc.edu.cn>
+Description: Establish my packages for 'Statistical Computing' course, including the community Detection algorithm.
+License: GPL (>= 2)
+Imports: Rcpp, microbenchmark,MASS,pheatmap,bootstrap,boot,RANN,Ball,energy,stableGR,stats4,parallel
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/zxy990409/StatComp21015
+BugReports: http://github.com/zxy990409/StatComp21015/issues
